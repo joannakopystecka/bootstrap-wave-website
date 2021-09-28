@@ -150,6 +150,29 @@ p {
   font-family: "Open Sans", sans-serif;
 }
 
+/* form */
+#form {
+  background: #f8f9fa;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.form-title {
+  font-family: "Open Sans", sans-serif;
+}
+
+.form-text {
+  margin: 60px auto 40px;
+  text-align: center;
+}
+
+.btn-primary {
+  box-shadow: none;
+  border: none;
+  margin-top: 25px;
+  background-image: linear-gradient(to right, #c740d6, #842599);
+}
+
 /* footer */
 
 #footer {
