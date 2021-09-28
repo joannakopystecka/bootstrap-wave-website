@@ -11,8 +11,8 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
-p {
-}
+/* nav */
+
 #nav-bar {
   position: sticky;
   top: 0;
@@ -150,9 +150,27 @@ p {
   font-family: "Open Sans", sans-serif;
 }
 
+/* pricing */
+
+#pricing {
+  background: #f8f9fa;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.price-box {
+  padding: 40px;
+  box-shadow: 3px 8px 26px rgba(0, 0, 0, 0.15);
+  background-color: #fff;
+}
+
+.plan-price {
+  margin-top: 30px;
+}
+
 /* form */
 #form {
-  background: #f8f9fa;
+  background: #fff;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -215,7 +233,7 @@ p {
 .footer-box .btn-primary {
   box-shadow: none;
   border: none;
-  border-radius: 0px;
+  border-radius: 5px;
   margin-top: 25px;
   background-image: linear-gradient(to right, #c740d6, #842599);
 }
