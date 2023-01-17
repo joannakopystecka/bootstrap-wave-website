@@ -1,6 +1,7 @@
 # Bootstrap landing page
 
-Live demo: https://joannakopystecka.github.io/Wave-website/
+Live demo: https://joannakopystecka.github.io/bootstrap-wave-website/
 
 ### Project goals:
-- creating a responsive landing page using bootstrap.
+- creating a responsive landing page using bootstrap,
+- using a wavy background.
